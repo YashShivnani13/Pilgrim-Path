@@ -1,0 +1,10 @@
+{
+  "name": "Pilgrim Path Dashboard",
+  "description": "A real-time navigational and safety dashboard for pilgrims featuring crowd density maps, SOS alerts, and live tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
